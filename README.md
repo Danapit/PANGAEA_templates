@@ -1,13 +1,14 @@
 # PANGAEA: search & reuse of scientific data
-[PANGAEA.de](https://www.pangaea.de "PANGAEA home page") is an open access scientific library of georeferenced environmental data hosted by Alfred Wegener Institute in Bremerhaven and MARUM, Bremen.
+[PANGAEA.de](https://www.pangaea.de "PANGAEA home page") is an open access scientific library of georeferenced environmental data hosted by Alfred Wegener Institute in Bremerhaven and MARUM, Bremen. PANGAEA uses FAIR principles.
+
 This repository provides
-* a guide on how to search for data in PANGAEA using the web interface
-* tips for advanced search
-* a guide for using PANGAEA's marketplace for retrieving data combinded from multiple datasets
-* examples of workflows to access and reuse data from FAIR data repository [PANGAEA.de](https://www.pangaea.de "PANGAEA home page") using R and R package [`pangaear`](https://github.com/ropensci/pangaear).
+* PANGAEA's web interface search guide
+* advanced search tips
+* PANGAEA's marketplace guide for retrieving data combinded from multiple datasets
+* examples of workflows to access and reuse data from  [PANGAEA.de](https://www.pangaea.de "PANGAEA home page") using R and R package [`pangaear`](https://github.com/ropensci/pangaear).
 
 ## What is this project about and what does it do
-This project was initiated as a support for graduate students and scientists in their interaction with [PANGAEA.de](https://www.pangaea.de).
+This project was initiated as a support for graduate students, scientists of the host instituets and other users, in their interaction with [PANGAEA.de](https://www.pangaea.de).
 
 ## How can someone get started contributing to the project
 If you have an example of [PANGAEA data](https://www.pangaea.de) use, you are wellcome to share them in this repository.
