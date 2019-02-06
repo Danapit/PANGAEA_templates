@@ -5,4 +5,5 @@
 * How to file a bug report or create an issue.
 * The ultimate goal, vision, or roadmap for the project.
 * How to contact those in charge of the project.
-* Links to any external documentation or websites.
+## Links
+[Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
