@@ -1,9 +1,9 @@
 
-* What sort of contributions you are looking for.
-* How to suggest updates or new features.
-* How to interact with the project using GitHub’s functions (e.g., the pull request protocol).
-* How to file a bug report or create an issue.
-* The ultimate goal, vision, or roadmap for the project.
-* How to contact those in charge of the project.
+## Contribution guidelines
+Do you have an example of PANGAEA data use? You are welcome to share it in this repository. Feel free to add yourself to the [Contributors team](https://github.com/Danapit/PANGAEA_templates) on GitHub.
+
+## Get in touch
+If you have questions about the project, please [email me](daniela.ransby@awi.de) directly.
+
 ## Links
 [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
