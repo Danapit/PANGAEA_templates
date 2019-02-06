@@ -7,14 +7,14 @@ This repository provides
 * PANGAEA's data warehouse guide for retrieving data combinded from multiple datasets and efficient compilations of data
 * examples of workflows to access and reuse data from  [PANGAEA.de](https://www.pangaea.de "PANGAEA home page") using R and R package [`pangaear`](https://github.com/ropensci/pangaear).
 
-## What is this project about and what does it do
+## What is this about?
 This repository serves as a learning material for graduate students and scientists of the host institutes. The material can be freely distributed and used as a support for [PANGAEA](https://www.pangaea.de) users.
 
-## How can someone get started contributing to the project
+## Wanna contribute?
 If you have an example of [PANGAEA data](https://www.pangaea.de) use, you are wellcome to share them in this repository.
 
 ## Need a help?
-Contact [Dana](https://www.awi.de/nc/ueber-uns/organisation/mitarbeiter/daniela-ransby.html "Dana")
+Try contacting [Dana](https://www.awi.de/nc/ueber-uns/organisation/mitarbeiter/daniela-ransby.html "Dana")
 
 ## License
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
