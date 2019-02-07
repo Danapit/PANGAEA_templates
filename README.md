@@ -29,8 +29,8 @@ Code of conduct: (https://github.com/Danapit/PANGAEA_templates/blob/master/CODE_
 ## Contributors
 Dana Ransby
 
-## DOI
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2559491.svg)](https://doi.org/10.5281/zenodo.2559491)
+## Cite as
+Daniela Ransby. (2019, February 7). Danapit/PANGAEA_templates: First release (Version 1.0.0). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2559491.svg)](https://doi.org/10.5281/zenodo.2559491)
 
 ## Disclaimer
 This repository was initiated as a Task 1 to complete the [MOOC Open Science course](https://eliademy.com/app/a/courses/02d7338a7e), [Module 5 Open Research Software and Open Source](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/). This documents the author's competency level...
