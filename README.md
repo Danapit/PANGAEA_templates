@@ -10,6 +10,8 @@ This repository provides
 ## What is this about?
 This repository serves as a learning material for graduate students and scientists of the host institutes. The material can be freely distributed and used as a support for [PANGAEA](https://www.pangaea.de) users.
 
+Other PANGAEA - related codes can be found in the [official repository] (https://github.com/pangaea-data-publisher).
+
 ## Wanna contribute?
 If you have an example of [PANGAEA data](https://www.pangaea.de) use, you are welcome to share them in this repository.
 
